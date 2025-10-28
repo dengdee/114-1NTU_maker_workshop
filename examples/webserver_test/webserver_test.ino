@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-const char* ssid = "LAPTOP-GDFAD7NL4364"; //you can change to your own wifi
-const char* password = "878p21}H";
+const char* ssid = "csie523"; //you can change to your own wifi
+const char* password = "MakeReality";
 const char* serverUrl = "https://esp32-test-prs1.onrender.com/test"; //change to your own server url
 
 // 建立 HTTP 連線

@@ -4,8 +4,8 @@
 #include <SD.h>
 #include <SPI.h>
 
-const char* ssid = "LAPTOP-GDFAD7NL4364";
-const char* password = "878p21}H";
+const char* ssid = "csie523";
+const char* password = "MakeReality";
 
 const char* host = "esp32-test-prs1.onrender.com";
 const int httpsPort = 443;
