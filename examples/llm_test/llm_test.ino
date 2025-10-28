@@ -4,7 +4,7 @@
 
 const char* ssid = "csie523";
 const char* password = "MakeReality";
-const String apiKey = "AIzaSyDuBKdiK4b4WO6XuiAOZ9DsP1WinfGPfrs";  // 你的 Gemini API Key
+const String apiKey = "";  // 你的 Gemini API Key
 
 void setup() {
   Serial.begin(115200);

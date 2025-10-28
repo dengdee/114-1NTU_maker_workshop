@@ -13,8 +13,8 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
 WebServer server(80);
 
-const char* ssid = "LAPTOP-GDFAD7NL4364"; 
-const char* password = "878p21}H";
+const char* ssid = "csie523"; 
+const char* password = "MakeReality";
 
 bool pixelBuffer[SCREEN_WIDTH][SCREEN_HEIGHT];
 
